@@ -1,0 +1,721 @@
+body {
+  line-height: 1.5;
+  font-family: "Mina", sans-serif;
+}
+
+.navbar-backgr {
+  background-color: #202020;
+}
+
+.navbar-backgr a {
+  font-family: "Mina", sans-serif;
+  font-size: 23px;
+  margin-right: 18px;
+  margin-top: 9px;
+  margin-bottom: 9px;
+}
+
+.navbar-backgr a:hover {
+  color: white;
+  text-decoration: underline;
+  text-decoration-color: #ffde9f;
+}
+
+.navbar-backgr .brand-name {
+  font-size: 30px !important;
+  font-weight: bold;
+  margin-left: 15px;
+}
+
+.navbar-backgr .brand-name:hover {
+  text-decoration: none;
+}
+
+.navbar-backgr .custom-navbar-link {
+  color: #ffde9f !important;
+  font-weight: bold !important;
+}
+
+.navbar-backgr .custom-navbar-link:hover {
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
+.navbar-toggler-icon {
+  background-color: #ffde9f !important; /* Change the background color */
+  border-radius: 3px;
+}
+
+.custom-toggler {
+  border: 3px solid #ffffff !important;
+}
+
+.container.hero {
+  margin: 0;
+  max-width: 100%;
+}
+
+.hero-text-section {
+  background-color: #fff2db;
+  padding: 20px 50px;
+  border-right: 3px solid black;
+}
+
+.hero-welcome {
+  font-family: "Mina", sans-serif;
+  font-size: 28px;
+  padding: 100px 0 20px 60px;
+}
+
+.hero-text {
+  font-family: "Mina", sans-serif;
+  font-size: 75px;
+  padding: 0 0 20px 60px;
+  font-weight: bold;
+}
+
+.hero-description {
+  font-family: "Lato", sans-serif;
+  font-size: 18px;
+  padding: 0 60px 20px 60px;
+}
+.ideas-text {
+  text-decoration: underline;
+  text-decoration-color: #bbf0a3;
+  text-decoration-style: double;
+}
+
+.hero-button-1 {
+  margin-left: 60px;
+  margin-right: 25px;
+  border-radius: 48px;
+  padding: 26px 38px;
+  font-family: "Mina", sans-serif !important;
+  font-weight: bold;
+  font-size: 19px;
+  background-color: #202020;
+  border: 3px solid #202020;
+  transition: all ease-in-out 200ms;
+}
+
+.about-button {
+  margin-top: 30px;
+  border-radius: 48px;
+  padding: 23px 35px;
+  font-family: "Mina", sans-serif !important;
+  font-weight: bold;
+  font-size: 19px;
+  background-color: #202020;
+  border: 3px solid #202020;
+  transition: all ease-in-out 200ms;
+}
+
+.hero-button-1:hover,
+.about-button:hover {
+  border: 3px solid #202020;
+  text-decoration: underline;
+  text-decoration-color: #ffde9f;
+  text-decoration-thickness: 3px;
+  padding: 24px 36px; /* Slightly decrease the padding */
+}
+.hero-link-1,
+.about-link {
+  text-decoration: none;
+  color: white;
+}
+
+.hero-button-2 {
+  margin-right: 25px;
+  font-family: "Mina", sans-serif !important;
+  font-size: 19px;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 48px;
+  padding: 26px 38px;
+  background-color: white;
+  border: 3px solid #202020;
+  transition: all ease-in-out 200ms;
+}
+
+.hero-button-2:hover {
+  border: 3px solid #202020;
+  text-decoration: underline;
+  text-decoration-color: #f985e4;
+  text-decoration-thickness: 3px;
+  padding: 24px 36px; /* Slightly decrease the padding */
+}
+
+.hero-link-2 {
+  color: #202020;
+  text-decoration: none;
+}
+
+.hero-pic-section {
+  background-color: #f7e5fd;
+  padding: 20px 50px;
+}
+
+.pic-roberta {
+  max-width: 95%;
+  margin-top: 40px;
+}
+
+.hero-row {
+  border-bottom: 3px solid black;
+}
+
+.project-section {
+  padding: 70px 50px 50px 70px;
+}
+
+.project-title {
+  display: inline-block;
+  font-family: "Mina", sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  padding-left: 7px;
+}
+
+.h2-deco {
+  width: 30%;
+  margin: -150px -90px;
+  padding: 0;
+}
+
+.weather-img {
+  margin-left: 70px;
+  width: 80%;
+  margin-top: -35px;
+}
+
+.weather-h2,
+.clock-h2,
+.poem-h2 {
+  font-family: "Mina", sans-serif;
+  font-weight: bold;
+}
+
+.weather-p,
+.clock-p,
+.poem-p {
+  font-family: "Lato", sans-serif;
+  font-size: 18px;
+  margin-top: 30px;
+}
+
+.weather-row {
+  padding-bottom: 60px;
+}
+
+.clock-row {
+  padding: 30px 70px 60px 70px;
+}
+
+.clock-img {
+  margin-right: 70px;
+  width: 90%;
+  margin-top: -35px;
+}
+
+.poem-img {
+  margin-left: 70px;
+  width: 80%;
+  margin-top: -35px;
+}
+
+.poem-row {
+  padding-top: 30px;
+  padding-bottom: 60px;
+}
+
+.launch-button {
+  margin-right: 25px;
+  margin-top: 40px;
+  border-radius: 48px;
+  padding: 20px 28px;
+  background-color: #ffde9f;
+  font-size: 18px;
+  font-weight: bold;
+  border: 3px solid #202020;
+  transition: all ease-in-out 200ms;
+}
+
+.launch-button:hover {
+  background-color: #fff2db;
+  color: #202020;
+  border: 3px solid #202020;
+  text-decoration: underline;
+  text-decoration-color: #202020;
+  text-decoration-thickness: 3px;
+}
+
+.weather-link,
+.clock-link,
+.poem-link {
+  color: #202020;
+  text-decoration: none;
+  font-family: "Mina", sans-serif;
+}
+
+.git-button {
+  margin-right: 25px;
+  margin-top: 40px;
+  border-radius: 48px;
+  padding: 20px 28px;
+  background-color: #f7e5fd;
+  font: "Mina", sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  border: 3px solid #202020;
+  transition: all ease-in-out 200ms;
+}
+
+.git-button:hover {
+  background-color: #fff2db;
+  border: 3px solid #202020;
+}
+
+.git-projects {
+  color: #202020;
+  width: 24px;
+  height: 24px;
+}
+
+footer {
+  background-color: #ebf4ff;
+  padding: 40px 40px 20px 40px;
+  border-top: 3px solid #202020;
+}
+
+.footer-link {
+  font-size: 40px;
+  margin-right: 50px;
+}
+.icon-footer {
+  color: #202020;
+}
+
+.signature {
+  font-size: 13px;
+  font-family: monospace;
+  padding-top: 15px;
+}
+
+.about-section.container {
+  margin: auto;
+  max-width: 100%;
+}
+.about-row {
+  padding-bottom: 60px;
+  border-bottom: 3px solid black;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+.about-pic {
+  width: 90%;
+  margin-top: 55px;
+}
+
+.about-title {
+  margin-top: 85px;
+  font-family: "Mina", sans-serif;
+  font-weight: bold;
+}
+
+.about-description {
+  margin-top: 10px;
+  margin-bottom: 60px;
+  font-family: "Lato", sans-serif;
+  font-size: 22px;
+}
+.ideas {
+  text-decoration: underline;
+  text-decoration-color: #ffde9f;
+}
+
+.about-second-title {
+  font-family: "Mina", sans-serif;
+  font-weight: bold;
+  margin-top: 25px;
+  margin-bottom: 30px;
+}
+
+.about-first-paragraph {
+  font-family: "Lato", sans-serif;
+  font-size: 18px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+.about-p-intro {
+  font-weight: bold;
+  font-family: "Mina", sans-serif;
+}
+
+.contact-row {
+  background-color: #fff2db;
+  padding: 50px 200px;
+}
+
+.about-second-paragraph,
+.contact-me-paragraph {
+  text-align: center;
+  font-size: 22px;
+  font-family: "Lato", sans-serif;
+}
+
+.contact-title {
+  font-family: "Mina", sans-serif;
+  font-weight: bold;
+
+  margin-bottom: 40px;
+  font-size: 35px;
+  text-align: center;
+}
+.contact-link {
+  text-decoration: underline;
+  color: #202020;
+  text-decoration-color: #f985e4;
+  font-weight: bold;
+}
+
+/* first breaking point */
+@media (max-width: 1215px) {
+  .hero-welcome {
+    padding-top: 55px;
+  }
+  .hero-text {
+    font-size: 65px;
+  }
+}
+
+/* second breaking point */
+@media (max-width: 1125px) {
+  .hero-text-section,
+  .hero-pic-section {
+    width: 100% !important;
+  }
+  .hero-text-section {
+    padding-left: 0;
+    border-right: none;
+    border-bottom: 3px solid #202020;
+  }
+  .hero-welcome {
+    padding-top: 60px;
+    padding-left: 35px;
+  }
+  .hero-text {
+    font-size: 75px;
+    padding-left: 35px;
+  }
+  .hero-description {
+    padding-left: 35px;
+    width: 900px;
+  }
+  .hero-button-1 {
+    margin-left: 35px;
+  }
+  .pic-roberta {
+    width: 62%;
+    display: block;
+    margin-left: 150px;
+    margin-top: 25px;
+  }
+  .h2-deco {
+    margin-left: -75px;
+  }
+}
+
+/* about page first breaking point */
+
+@media (max-width: 990px) {
+  .about-pic {
+    display: none;
+  }
+}
+
+/* third breaking point */
+@media (max-width: 820px) {
+  .navbar-backgr a {
+    font-size: 17px;
+  }
+
+  .hero-text-section {
+    padding-left: 0;
+    border-right: none;
+    border-bottom: 3px solid #202020;
+  }
+  .hero-welcome {
+    padding-top: 60px;
+    padding-left: 20px;
+  }
+  .hero-text {
+    font-size: 80px;
+    padding-left: 20px;
+  }
+
+  .hero-description {
+    padding-left: 20px;
+    width: 600px;
+  }
+  .hero-button-1 {
+    margin-left: 20px;
+  }
+  .pic-roberta {
+    width: 55%;
+    display: block;
+    margin-left: 150px;
+    margin-top: 25px;
+  }
+  .project-section {
+    padding-left: 20px;
+    padding-top: 45px;
+  }
+  .h2-deco {
+    margin: -150px -50px;
+  }
+  .weather-img,
+  .poem-img {
+    margin-left: 20px;
+    margin-top: -17px;
+  }
+  .weather-h2,
+  .weather-p,
+  .poem-h2,
+  .poem-p {
+    margin-left: -20px;
+  }
+  .weather-b,
+  .poem-b {
+    margin-left: -20px;
+    margin-top: 5px;
+  }
+  .clock-h2 {
+    margin-top: -17px;
+    margin-left: -40px;
+  }
+  .clock-p {
+    margin-left: -40px;
+  }
+
+  .clock-buttons-container {
+    position: relative;
+    margin-left: -40px;
+  }
+
+  .clock-b {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 0px;
+  }
+
+  .clock-img {
+    width: 100%;
+  }
+}
+
+/* fourth breakpoint */
+
+@media (max-width: 580px) {
+  .hero-text-section {
+    width: 100% !important;
+  }
+
+  .webdev {
+    text-decoration: underline;
+    text-decoration-color: #f985e4;
+  }
+  .hero-pic-section {
+    display: none;
+  }
+
+  .weather-img,
+  .clock-img,
+  .poem-img {
+    display: none;
+  }
+
+  .hero-welcome {
+    font-size: 25px;
+    padding-top: 10px;
+    padding-left: 20px;
+  }
+  .hero-text {
+    font-size: 42px;
+    padding-left: 20px;
+  }
+
+  .hero-description {
+    padding-left: 20px;
+    padding-right: 20px;
+    max-width: 100%;
+    font-size: 15px;
+  }
+  .hero-button-1 {
+    margin-left: 20px;
+    padding: 12px 17px;
+    font-size: 17px;
+  }
+
+  .hero-button-2 {
+    padding: 12px 17px;
+    font-size: 17px;
+  }
+
+  .project-section {
+    padding: 45px 30px;
+  }
+  .project-title {
+    font-size: 32px;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: #ffde9f;
+  }
+  .h2-deco {
+    display: none;
+  }
+
+  .weather-p,
+  .clock-p,
+  .poem-p {
+    font-size: 17px;
+  }
+
+  .weather-h2,
+  .weather-p,
+  .poem-h2,
+  .poem-p,
+  .clock-p {
+    margin-left: auto;
+    text-align: center;
+  }
+  .weather-b,
+  .poem-b,
+  .clock-b-1 {
+    margin: auto;
+    display: block;
+    padding: 10px 17px;
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+  .git-button {
+    margin: auto;
+    display: block;
+    padding: 5px 10px;
+  }
+  .clock-row {
+    padding: 0;
+  }
+  .clock-h2 {
+    margin: auto;
+    text-align: center;
+  }
+  .clock-buttons-container {
+    position: relative;
+    margin-left: auto;
+  }
+
+  .poem-h2 {
+    margin-top: 30px;
+  }
+  .clock-b {
+    position: relative;
+  }
+  .icon-container {
+    display: block;
+    margin: auto;
+  }
+  .footer-link {
+    margin: auto;
+  }
+  .signature {
+    font-size: 12px;
+  }
+
+  /* about page */
+  .about-row {
+    padding-bottom: 30px;
+    border-bottom: 3px solid black;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+  .about-pic {
+    display: none;
+  }
+
+  .about-title {
+    margin-top: 40px;
+    font-family: "Mina", sans-serif;
+    font-weight: bold;
+    font-size: 28px;
+  }
+
+  .about-description {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    font-family: "Lato", sans-serif;
+    font-size: 17px;
+  }
+  .ideas {
+    text-decoration: underline;
+    text-decoration-color: #ffde9f;
+  }
+
+  .about-second-title {
+    font-family: "Mina", sans-serif;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    font-size: 26px;
+  }
+
+  .about-first-paragraph {
+    font-family: "Lato", sans-serif;
+    font-size: 17px;
+    margin-top: 12px;
+    margin-bottom: 10px;
+  }
+
+  .about-p-intro {
+    font-weight: bold;
+    font-family: "Mina", sans-serif;
+    font-size: 18px;
+  }
+
+  .about-button {
+    margin: auto;
+    display: block;
+    padding: 12px 17px;
+    font-size: 17px;
+  }
+
+  .contact-row {
+    background-color: #fff2db;
+    padding: 30px;
+  }
+
+  .ready {
+    display: none;
+  }
+
+  .about-second-paragraph,
+  .contact-me-paragraph {
+    text-align: center;
+    font-size: 19px;
+    font-family: "Lato", sans-serif;
+  }
+
+  .contact-title {
+    font-family: "Mina", sans-serif;
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-size: 27px;
+    text-align: center;
+  }
+  .contact-link {
+    text-decoration: underline;
+    color: #202020;
+    text-decoration-color: #f985e4;
+    font-weight: bold;
+  }
+}
