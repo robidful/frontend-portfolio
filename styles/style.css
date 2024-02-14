@@ -174,6 +174,7 @@ body {
 .skills-h2 {
   font-family: "Mina", sans-serif;
   font-weight: bold;
+  font-size: 40px;
   text-align: center;
   margin-top: 40px;
   margin-bottom: 60px;
@@ -191,7 +192,8 @@ body {
   padding: 70px 50px 50px 70px;
   border-top: 3px solid black;
   width: 100vw;
-  margin-left: 0;
+  margin: 0;
+  padding: 0;
 }
 
 .project-title {
