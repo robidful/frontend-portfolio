@@ -188,22 +188,18 @@ body {
   margin-left: 40px;
 }
 
-.project-section {
-  padding: 70px 50px 50px 70px;
+.second-container {
+  margin-top: 50px;
+  border-top: 3px solid black;
+  padding-top: 35px;
+  padding-bottom: 35px;
 }
 
 .project-title {
-  display: inline-block;
   font-family: "Mina", sans-serif;
   font-size: 40px;
   font-weight: bold;
-  padding-left: 7px;
-}
-
-.h2-deco {
-  width: 30%;
-  margin: -150px -90px;
-  padding: 0;
+  text-align: center;
 }
 
 .launch-button {
