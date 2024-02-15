@@ -522,6 +522,10 @@ footer {
     margin-left: 150px;
     margin-top: 25px;
   }
+
+  .second-container {
+    margin: 0 auto;
+  }
   .project-section {
     padding-left: 20px;
     padding-top: 45px;
