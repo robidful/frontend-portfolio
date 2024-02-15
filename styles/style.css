@@ -714,10 +714,8 @@ footer {
   }
 
   .about-button {
-    margin: auto;
-    display: block;
-    padding: 12px 17px;
-    font-size: 17px;
+    padding: 10px 15px;
+    font-size: 14px;
   }
 
   .contact-row {
