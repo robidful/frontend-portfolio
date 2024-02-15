@@ -596,7 +596,7 @@ footer {
     text-align: center;
     display: block;
     margin: 0 auto;
-    padding-bottom: 50px;
+    padding-bottom: 25px;
   }
 
   .skills-h2 {
@@ -605,7 +605,7 @@ footer {
 
   .main-icon {
     color: #202020;
-    font-size: 35px;
+    font-size: 31px;
     opacity: 0.85;
     margin-right: 10px;
     margin-left: 10px;
