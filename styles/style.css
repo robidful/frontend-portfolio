@@ -655,7 +655,7 @@ footer {
   .git-button {
     margin: 0 auto;
     border-radius: 48px;
-    padding: 4px 8px;
+    padding: 4px;
     background-color: #f7e5fd;
     font: "Mina", sans-serif;
     font-size: 7px;
