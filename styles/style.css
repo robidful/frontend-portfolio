@@ -561,7 +561,7 @@ footer {
   }
 
   .hero-row {
-    border-bottom: 1.5px solid black;
+    border-bottom: solid black;
   }
 
   .webdev {
