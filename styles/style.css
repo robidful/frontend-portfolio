@@ -560,6 +560,10 @@ footer {
     width: 100% !important;
   }
 
+  .hero-row {
+    border-bottom: 1.5px solid black;
+  }
+
   .webdev {
     text-decoration: underline;
     text-decoration-color: #f985e4;
