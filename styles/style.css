@@ -592,8 +592,23 @@ footer {
     font-size: 17px;
   }
 
+  .skills-section {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 50px;
+  }
+
   .skills-h2 {
     font-size: 32px;
+  }
+
+  .main-icon {
+    color: #202020;
+    font-size: 30px;
+    opacity: 0.85;
+    margin-right: 10px;
+    margin-left: 10px;
   }
 
   .project-section {
