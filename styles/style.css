@@ -612,7 +612,7 @@ footer {
   .skills-h2 {
     font-size: 28px;
     padding: 0;
-    margin-top: 20px;
+    margin-top: 30px;
     margin-bottom: 30px;
   }
 
@@ -632,6 +632,8 @@ footer {
     text-align: center;
     text-decoration: underline;
     text-decoration-color: #ffde9f;
+    padding-bottom: 20px;
+    padding-top: 20px;
   }
 
   .launch-button {
