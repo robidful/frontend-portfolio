@@ -452,6 +452,14 @@ footer {
     margin-top: 25px;
   }
 
+  .main-icon {
+    color: #202020;
+    font-size: 50px;
+    opacity: 0.85;
+    margin-right: 40px;
+    margin-left: 40px;
+  }
+
   .launch-button {
     margin-right: 18px;
     margin-top: 40px;
