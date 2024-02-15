@@ -648,6 +648,10 @@ footer {
     transition: all ease-in-out 200ms;
   }
 
+  .project-name {
+    font-size: 19px;
+  }
+
   .git-button {
     margin-right: 18px;
     margin-top: 40px;
