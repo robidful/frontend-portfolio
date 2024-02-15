@@ -637,8 +637,7 @@ footer {
   }
 
   .launch-button {
-    margin-right: 18px;
-    margin-top: 40px;
+    margin: 0 auto;
     border-radius: 48px;
     padding: 4px 8px;
     background-color: #ffde9f;
@@ -650,11 +649,11 @@ footer {
 
   .project-name {
     font-size: 16px;
+    font-weight: normal;
   }
 
   .git-button {
-    margin-right: 18px;
-    margin-top: 40px;
+    margin: 0 auto;
     border-radius: 48px;
     padding: 4px 8px;
     background-color: #f7e5fd;
