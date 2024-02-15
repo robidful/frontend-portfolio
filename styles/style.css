@@ -494,6 +494,17 @@ footer {
   }
 }
 
+/*additional breaking point for skills icons */
+@media (max-width: 920px) {
+  .main-icon {
+    color: #202020;
+    font-size: 40px;
+    opacity: 0.85;
+    margin-right: 40px;
+    margin-left: 40px;
+  }
+}
+
 /* third breaking point */
 @media (max-width: 820px) {
   .navbar-backgr a {
