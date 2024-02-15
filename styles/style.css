@@ -600,22 +600,22 @@ footer {
   }
 
   .skills-h2 {
-    font-size: 32px;
+    font-size: 28px;
   }
 
   .main-icon {
     color: #202020;
-    font-size: 30px;
+    font-size: 35px;
     opacity: 0.85;
     margin-right: 10px;
     margin-left: 10px;
   }
 
   .project-section {
-    padding: 45px 30px;
+    padding: 30px 30px;
   }
   .project-title {
-    font-size: 32px;
+    font-size: 28px;
     text-align: center;
     text-decoration: underline;
     text-decoration-color: #ffde9f;
