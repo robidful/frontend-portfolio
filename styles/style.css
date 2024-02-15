@@ -528,8 +528,7 @@ footer {
   }
 
   .launch-button {
-    margin-right: 18px;
-    margin-top: 40px;
+    margin: 0 auto;
     border-radius: 48px;
     padding: 6px 9px;
     background-color: #ffde9f;
@@ -540,8 +539,7 @@ footer {
   }
 
   .git-button {
-    margin-right: 18px;
-    margin-top: 40px;
+    margin: 0 auto;
     border-radius: 48px;
     padding: 6px 9px;
     background-color: #f7e5fd;
