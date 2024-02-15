@@ -543,6 +543,12 @@ footer {
   .fa-npm.main-icon {
     margin-top: 15px;
   }
+  .about-second-paragraph,
+  .contact-me-paragraph {
+    text-align: center;
+    font-size: 18px;
+    font-family: "Lato", sans-serif;
+  }
 }
 
 /* third breaking point */
@@ -809,6 +815,7 @@ footer {
     font-size: 25px;
     text-align: center;
   }
+
   .about-second-paragraph,
   .contact-me-paragraph {
     text-align: center;
