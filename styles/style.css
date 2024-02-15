@@ -626,16 +626,17 @@ footer {
     margin-left: 10px;
   }
 
-  .project-section {
-    padding: 30px 30px;
+  div.container.second-container {
+    padding-top: 20px;
   }
+
   .project-title {
     font-size: 28px;
     text-align: center;
     text-decoration: underline;
     text-decoration-color: #ffde9f;
     padding-bottom: 20px;
-    padding-top: 20px;
+    padding-top: 0;
   }
 
   .launch-button {
