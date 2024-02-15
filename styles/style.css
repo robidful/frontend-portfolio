@@ -746,4 +746,8 @@ footer {
     text-decoration-color: #f985e4;
     font-weight: bold;
   }
+
+  .icon-footer {
+    font-size: 18px;
+  }
 }
