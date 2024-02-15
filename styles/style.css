@@ -726,21 +726,20 @@ footer {
   .ready {
     display: none;
   }
-
-  .about-second-paragraph,
-  .contact-me-paragraph {
-    text-align: center;
-    font-size: 19px;
-    font-family: "Lato", sans-serif;
-  }
-
   .contact-title {
     font-family: "Mina", sans-serif;
     font-weight: bold;
     margin-bottom: 20px;
-    font-size: 27px;
+    font-size: 25px;
     text-align: center;
   }
+  .about-second-paragraph,
+  .contact-me-paragraph {
+    text-align: center;
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+  }
+
   .contact-link {
     text-decoration: underline;
     color: #202020;
