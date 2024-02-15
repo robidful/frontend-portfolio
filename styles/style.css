@@ -505,6 +505,9 @@ footer {
     font-size: 80px;
     padding-left: 20px;
   }
+  .ideas-text {
+    text-decoration: none;
+  }
 
   .hero-description {
     padding-left: 20px;
@@ -580,6 +583,9 @@ footer {
     padding-right: 20px;
     max-width: 100%;
     font-size: 15px;
+  }
+  .ideas-text {
+    text-decoration: none;
   }
   .hero-button-1 {
     margin-left: 20px;
