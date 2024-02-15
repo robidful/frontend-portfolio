@@ -661,10 +661,12 @@ footer {
     padding: 4px;
     background-color: #f7e5fd;
     font: "Mina", sans-serif;
-    font-size: 7px;
+    font-size: 10px;
     font-weight: bold;
     border: 3px solid #202020;
     transition: all ease-in-out 200ms;
+    justify-content: center;
+    align-items: center;
   }
 
   .icon-container {
